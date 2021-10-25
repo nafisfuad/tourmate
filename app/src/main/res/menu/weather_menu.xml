@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Convert to C"
+        android:id="@+id/weather_item_celcius"/>
+    <item android:title="Convert to F"
+        android:id="@+id/weather_item_fahrenheit"/>
+    <item android:title="Search"
+        android:id="@+id/weather_item_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+</menu>

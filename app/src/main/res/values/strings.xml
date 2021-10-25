@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseMad16</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_event">Add Event</string>
+    <string name="weather">Weather</string>
+    <string name="nearby_place">Nearby Place</string>
+    <string name="weather_api_key">cd86fdc8db34f54227236fbd96acd6fb</string>
+    <string name="forecast_api_key">6be8c480e60abac0e8180f61635c4edf</string>
+    <string name="place_api_key"></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nearby_place_api"></string>
+</resources>

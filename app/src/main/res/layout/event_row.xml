@@ -1,0 +1,43 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        app:cardElevation="4dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground" layout_height="">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/row_eventName"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/row_departureDate"
+                android:textSize="12sp"
+                android:layout_below="@id/row_eventName"
+                android:textStyle="italic"/>
+
+            <TextView
+                android:id="@+id/row_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="⋮" android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_alignParentEnd="true"
+                android:padding="20dp"
+                android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

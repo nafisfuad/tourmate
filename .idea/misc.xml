@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.27807971014492755" />
+        <entry key="app/src/main/res/layout/add_expense_dialog_box.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/bottom_sheet_gallery.xml" value="0.3111413043478261" />
+        <entry key="app/src/main/res/layout/event_row.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/fragment_add_event.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/fragment_event_details.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/fragment_event_list.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/fragment_nearby_place.xml" value="0.3111413043478261" />
+        <entry key="app/src/main/res/layout/fragment_weather.xml" value="0.3111413043478261" />
+        <entry key="app/src/main/res/layout/gallery_row.xml" value="0.3111413043478261" />
+        <entry key="app/src/main/res/menu/event_row_menu.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/menu/weather_menu.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/xml/file_path.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
